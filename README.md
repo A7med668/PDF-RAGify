@@ -107,7 +107,7 @@ A: [AI provides comprehensive overview from document]
 
 ---
 
-<h2 id="installttion">📦 Installation</h2>
+<h2 id="installation">📦 Installation</h2>
 
 ### Prerequisites
 
