@@ -1,0 +1,13 @@
+transformers==4.52.4
+sentence-transformers
+PyPDF2
+faiss-cpu
+streamlit
+langchain
+google-generativeai
+google-genai
+torch
+numpy
+pandas
+pyngrok
+python-multipart
