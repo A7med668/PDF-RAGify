@@ -192,7 +192,7 @@ embedding_model = "sentence-transformers/all-MiniLM-L6-v2"
 
 ---
 
-## 🏗️ Architecture
+<h2 id="architecture">🏗️ Architecture</h2>
 
 ### System Flow Diagram
 
@@ -237,7 +237,7 @@ graph LR
 
 ---
 
-## 🛠️ Technologies
+<h2 id="technologies">🛠️ Technologies</h2>
 
 ### Core Components
 
