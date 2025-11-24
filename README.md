@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-demo">Demo</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-technologies">Technologies</a>
+  <a href="#features">Features</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#architecture">Architecture</a> •
+  <a href="#technologies">Technologies</a>
 </p>
 
 </div>
