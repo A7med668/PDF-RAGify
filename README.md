@@ -3,6 +3,10 @@
 # 📚 Chat with PDF - AI-Powered Document Q&A System
 
 <p align="center">
+  <img src="assets/image.png" alt="Chat with PDF Banner" width="80%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
